@@ -1,0 +1,10 @@
+Startup Folder (shell:startup)
+------------------------------
+Path: C:\Users\<User>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Contents:
+- (No startup items found)
+
+Notes:
+- Expected behaviour for Windows Server.
+- Startup items are not managed via Task Manager or msconfig on server OS.
