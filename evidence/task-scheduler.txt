@@ -1,0 +1,12 @@
+Task Scheduler - Summary
+------------------------
+Total Tasks Observed: Standard Windows tasks only.
+
+Examples:
+- Microsoft\Windows\Defrag\ScheduledDefrag
+- Microsoft\Windows\WindowsUpdate\Scheduled Start
+- Microsoft\Windows\Server Manager\ServerManager
+
+Notes:
+- No custom or suspicious scheduled tasks found.
+- No one-time tasks with unusual triggers.
