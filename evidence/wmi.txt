@@ -1,0 +1,8 @@
+WMI Control
+-----------
+Status: OK
+Namespace: root\cimv2 accessible
+No WMI corruption detected.
+
+Notes:
+- WMI operational and unmodified.
