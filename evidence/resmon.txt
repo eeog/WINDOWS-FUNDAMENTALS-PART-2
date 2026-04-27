@@ -1,0 +1,9 @@
+Resource Monitor (resmon)
+-------------------------
+CPU: Normal usage
+Memory: No leaks or high usage
+Disk: Normal read/write activity
+Network: No suspicious outbound connections
+
+Notes:
+- No resource anomalies detected.
