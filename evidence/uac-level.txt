@@ -1,0 +1,8 @@
+User Account Control (UAC)
+--------------------------
+Current Level: Notify me only when apps try to make changes (default)
+Secure Desktop: Enabled (screen dimming active)
+
+Notes:
+- UAC is active and enforcing elevation prompts.
+- No signs of UAC tampering.
