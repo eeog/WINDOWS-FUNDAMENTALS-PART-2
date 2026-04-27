@@ -1,0 +1,15 @@
+Shared Folders
+--------------
+Shares:
+- C$ (Default Admin Share)
+- ADMIN$ (Remote Admin)
+- IPC$ (Interprocess Communication)
+
+Sessions:
+- No active sessions.
+
+Open Files:
+- No open files.
+
+Notes:
+- No unauthorized shares or remote connections detected.
