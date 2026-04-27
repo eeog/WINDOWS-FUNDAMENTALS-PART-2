@@ -1,0 +1,18 @@
+System Information (msinfo32)
+-----------------------------
+System Summary:
+- OS: Windows Server
+- Processor: Virtual CPU
+- BIOS: Default VM BIOS
+- RAM: Standard VM allocation
+
+Components:
+- Display: Virtual Display Adapter
+- Input: Standard Keyboard/Mouse
+
+Software Environment:
+- Environment Variables: Default
+- Network Connections: Normal
+
+Notes:
+- No anomalies detected.
