@@ -1,0 +1,10 @@
+Disk Management
+---------------
+Disk 0:
+- System Reserved (500 MB)
+- C: (OS Partition)
+
+Notes:
+- No hidden partitions.
+- No unallocated space.
+- Standard Windows Server layout.
