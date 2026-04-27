@@ -1,0 +1,10 @@
+Performance Monitor (perfmon)
+-----------------------------
+Observations:
+- CPU usage stable.
+- Memory usage within normal range.
+- Disk I/O normal.
+- No abnormal spikes or bottlenecks.
+
+Notes:
+- No performance anomalies detected.
