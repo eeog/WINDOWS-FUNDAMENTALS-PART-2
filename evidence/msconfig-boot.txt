@@ -1,0 +1,12 @@
+System Configuration - Boot Tab
+-------------------------------
+Operating System: Windows Server
+Timeout: 30 seconds
+Safe Boot: Disabled
+Boot Log: Disabled
+Base Video: Disabled
+No GUI Boot: Disabled
+
+Notes:
+- No unusual boot options configured.
+- Standard Windows Server boot behaviour observed.
