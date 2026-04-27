@@ -1,0 +1,8 @@
+ipconfig
+--------
+IPv4 Address: <VM-IP>
+Subnet Mask: 255.255.255.0
+Default Gateway: <GATEWAY-IP>
+
+Notes:
+- Network configuration valid.
