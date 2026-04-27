@@ -1,0 +1,14 @@
+System Configuration - Services Tab
+-----------------------------------
+Total Services Listed: 150+
+Examples:
+- Windows Update (wuauserv) - Running
+- Windows Defender Antivirus Service - Running
+- DHCP Client (dhcp) - Running
+- DNS Client (dnscache) - Running
+- Remote Registry - Stopped
+- Print Spooler - Stopped
+
+Notes:
+- No suspicious or unexpected services identified.
+- All service names and states consistent with Windows Server defaults.
