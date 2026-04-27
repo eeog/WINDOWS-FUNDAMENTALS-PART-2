@@ -1,0 +1,8 @@
+netstat
+-------
+Active Connections:
+(No suspicious connections found)
+
+Notes:
+- No unusual listening ports.
+- No unexpected remote connections.
