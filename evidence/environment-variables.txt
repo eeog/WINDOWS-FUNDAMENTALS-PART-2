@@ -1,0 +1,12 @@
+Environment Variables
+---------------------
+Examples:
+- PATH
+- TEMP
+- USERPROFILE
+- WINDIR
+- ProgramFiles
+
+Notes:
+- All variables appear default.
+- No unauthorized modifications.
