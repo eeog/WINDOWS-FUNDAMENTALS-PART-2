@@ -1,0 +1,12 @@
+Services (services.msc)
+-----------------------
+Examples:
+- Windows Event Log - Running
+- Windows Time - Running
+- Remote Desktop Services - Running
+- Remote Registry - Stopped
+- Windows Update - Running
+
+Notes:
+- Startup types consistent with Windows Server defaults.
+- No suspicious service paths or executables.
