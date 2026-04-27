@@ -1,0 +1,9 @@
+System Configuration - General Tab
+----------------------------------
+Startup Selection: Normal startup
+Load System Services: Enabled
+Load Startup Items: Enabled
+
+Notes:
+- No selective startup options enabled.
+- System configured to load all drivers and services normally.
